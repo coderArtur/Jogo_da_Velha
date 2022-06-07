@@ -1,4 +1,5 @@
 * {
+  font-family: 'Passion One', cursive;
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -163,8 +164,16 @@ p #nome {
 
 #autor {
   font-family: sans-serif;
-  padding-top: 2rem;
   display: flex;
   justify-content: center;
-  font-size: .9rem;
+  font-size: 1rem;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 3rem;
+  padding-top: 1rem;
+  color: white;
+  font-family: 'Kdam Thmor Pro', sans-serif;
 }
